@@ -1,0 +1,15 @@
+<litepal>
+    <dbname value="fruit_mall2"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.example.userlh.fruitmall2.db.Shop"/>
+        <mapping class="com.example.userlh.fruitmall2.db.Vegetable"/>
+        <mapping class="com.example.userlh.fruitmall2.db.Meat"/>
+        <mapping class="com.example.userlh.fruitmall2.db.Fruit"/>
+        <mapping class="com.example.userlh.fruitmall2.db.DryCargo"/>
+
+    </list>
+
+</litepal>
